@@ -1,0 +1,7 @@
+﻿#main {
+    /** Need to set this manually when specifying StartPage without ms-appx-web:// prefix, else scrolling does not work
+    overflow: auto;
+    height:100%;
+    width:100%;
+        */
+}
